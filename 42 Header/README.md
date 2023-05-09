@@ -40,3 +40,4 @@ C projeleri için zorunlu olan header'ı bu doküman ve dosyalar yardımıyla ku
 ## Dipnot ⭐️
 > Credit Akif Dora ^^
 > https://www.srhdev.xyz
+> https://akifdora.me
